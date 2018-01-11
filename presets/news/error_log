@@ -1,0 +1,4 @@
+[12-Jul-2015 04:57:40 Europe/Berlin] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /home/mahyar121/public_html/presets/news/news.php on line 7
+[12-Jul-2015 04:57:40 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /home/mahyar121/public_html/presets/news/news.php on line 13
+[12-Jul-2015 19:26:50 Europe/Berlin] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /home/mahyar121/public_html/presets/news/news.php on line 7
+[12-Jul-2015 19:26:50 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /home/mahyar121/public_html/presets/news/news.php on line 13
